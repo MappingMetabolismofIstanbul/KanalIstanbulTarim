@@ -199,7 +199,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/vCwSqY6N/MEF-AAP-027-BAP-PART-II-2025-07-31-09-47-16.png',
+            image: 'https://iili.io/FgyAv94.png',
             description: '',
             location: {
                 center: [28.695,41.115],
